@@ -1,0 +1,20 @@
+{
+  "cartItem": [
+    {
+      "name": "Nykaa Cosmetics All Day Matte Compact- Vanilla, So Creme Lipstick- Pep Talk & Black Magic Kajal Combo",
+      "gram": "2.1ml",
+      "image": "https://images-static.nykaa.com/media/catalog/product/1/_/1_648.jpg",
+      "price": "489",
+      "quantity": "3",
+      "id": "13"
+    },
+    {
+      "name": "Nykaa Matte to Last! Transfer Proof Liquid Lipstick - Bombae -01",
+      "gram": "2.1ml",
+      "image": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245704209_1_2.jpg",
+      "price": "599",
+      "quantity": "2",
+      "id": "12"
+    }
+  ]
+}
