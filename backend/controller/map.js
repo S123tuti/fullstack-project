@@ -1,9 +1,4 @@
 
-
-
-
-// let arrOfProducts = [ 'lip balm', 'lipstick']
-// let arrOfBrands =  [ 'Kay Beauty', 'Earth Rhythm', 'nykaa cosmetics' ];
 const createQueries = (arrOfProducts,arrOfBrands) => {
 	const map = new Map();
 	for (let i = 0; i < arrOfProducts.length; i++) {
@@ -38,24 +33,12 @@ const createQueries = (arrOfProducts,arrOfBrands) => {
 			});
 		}
 	});
-
-	
-	// for (let i = 0; i < queryArr.length; i++){
-	//     console.log(queryArr[i]['$and'])
-	// }
-	// console.log(queryArr)
-	// console.log(queryArr[0]["$and"]);
 	return queryArr;
 }
-// createQueries(arrOfProducts,arrOfBrands)
+
 
 module.exports =createQueries
-		// console.log(map);
-		// for (let i = 0; i < queryArr.length; i++){
-		//     console.log(queryArr[i]['$and'])
-		// }
-		// console.log(queryArr)
-
+		
 
 
 

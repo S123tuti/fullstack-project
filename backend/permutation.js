@@ -27,7 +27,4 @@ const swap = (arr,i,j) => {
     
            return newArr
 }
-// let arr = [1, 2, 3];
-
-// console.log(newArr)
 module.exports = permutation
